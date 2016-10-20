@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/Sirupsen/logrus"
-	"github.com/urfave/negroni"
+	"github.com/codegangsta/negroni"
 )
 
 type timer interface {
